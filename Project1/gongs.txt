@@ -1,0 +1,105 @@
+r22
+t13
+y,2
+f-1
+g-1
+h,-1
+s,-1
+-1,s
+s,-1
+-1,s
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+z,1
+s,-1
+-1,s
+s,-1
+-1,s
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+z,1
+s,-1
+-1,s
+s,-1
+-1,s
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x 0,0 0,0 0,0 0,0
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x 0,0 0,0 0,0 0,0
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x 0,0 0,0 0,0 0,0
+z,1
+s,-1
+-1,s
+s,-1
+-1,s
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+z,1
+s,-1
+-1,s
+s,-1
+-1,s
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x
+x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x x,x

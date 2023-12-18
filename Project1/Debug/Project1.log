@@ -1,0 +1,48 @@
+﻿  Source.cpp
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(472): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(487): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(493): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(499): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(507): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(512): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(516): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(845): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(860): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(866): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(872): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(879): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(883): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(887): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(892): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(897): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(902): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(906): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(910): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(914): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(928): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(962): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1068): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1073): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1078): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1083): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1088): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1093): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1098): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1162): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1168): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1175): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1353): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1358): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1363): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1368): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1373): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1378): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1383): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1388): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1439): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1447): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guilherme\documents\trabs\oficina 3\jogo gd\project1\source.cpp(1453): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\Guilherme\Documents\trabs\oficina 3\Jogo GD\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Guilherme\Documents\trabs\oficina 3\Jogo GD\Debug\Project1.pdb (Partial PDB)
